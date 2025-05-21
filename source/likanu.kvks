@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visualkeyboard>
+  <header>
+    <version>10.0</version>
+    <kbdname>likanu</kbdname>
+    <flags/>
+  </header>
+  <encoding name="unicode" fontname="Arial" fontsize="-12">
+    <layer shift="">
+      <key vkey="K_E">‹</key>
+      <key vkey="K_H">ƨ</key>
+      <key vkey="K_K">x</key>
+      <key vkey="K_M">ɛ</key>
+      <key vkey="K_O">ɤ</key>
+      <key vkey="K_Q">｢</key>
+      <key vkey="K_T">ō</key>
+      <key vkey="K_U">o</key>
+      <key vkey="K_W">｣</key>
+      <key vkey="K_Y">ɂ</key>
+      <key vkey="K_G">ı</key>
+      <key vkey="K_R">›</key>
+      <key vkey="K_J">ʋ</key>
+      <key vkey="K_Z">≈</key>
+      <key vkey="K_C">ʃ</key>
+      <key vkey="K_V">ſ</key>
+      <key vkey="K_B">ɕ</key>
+      <key vkey="K_N">ʜ</key>
+      <key vkey="K_I">ɞ</key>
+      <key vkey="K_A">–</key>
+      <key vkey="K_S">､</key>
+      <key vkey="K_D">:</key>
+      <key vkey="K_F">ȷ</key>
+      <key vkey="K_X">ʭ</key>
+      <key vkey="K_P">ʌ</key>
+      <key vkey="K_L">ɵ</key>
+    </layer>
+    <layer shift="C">
+      <key vkey="K_Q">–</key>
+    </layer>
+  </encoding>
+</visualkeyboard>

@@ -1,0 +1,59 @@
+﻿c likanu generated from template at 2025-05-21 07:59:43
+c with name "Likanu"
+store(&VERSION) '10.0'
+store(&NAME) 'Likanu'
+store(&COPYRIGHT) 'Copyright © tbdhk'
+store(&KEYBOARDVERSION) '1.0'
+store(&TARGETS) 'windows macosx linux web'
+store(&BITMAP) 'likanu.ico'
+store(&VISUALKEYBOARD) 'likanu.kvks'
+store(&LAYOUTFILE) 'likanu.keyman-touch-layout'
+
+begin Unicode > use(main)
+
+store(basecons) 'oʜʌxɕʋɂɞƨɤɵɛ'  
+store(vowels)   'ıȷſʃ'
+store(macron)   '̄'
+
+group(main) using keys
+
+    c punctuation
+    + [K_Q] > "｢"
+    + [K_W] > "｣"
+    + [K_E] > "‹"
+    + [K_R] > "›"
+
+    + [K_A] > "–"
+    + [K_S] > "､"
+    + [K_D] > ":"
+
+    + [K_Z] > "≈"
+    + [K_X] > "ʭ"
+
+    c vowels
+    + [K_T] > nul
+
+    + [K_F] > "ȷ"
+    + [K_G] > "ı"
+
+    + [K_C] > "ʃ"
+    + [K_V] > "ſ"
+
+    c consonants
+    + [K_Y] > "ɂ"
+    + [K_U] > "o"
+    + [K_I] > "ɞ"
+    + [K_O] > "ɤ"
+    + [K_P] > "ʌ"
+
+    + [K_H] > "ƨ"
+    + [K_J] > "ʋ"
+    + [K_K] > "x"
+    + [K_L] > "ɵ"
+
+    + [K_B] > "ɕ"
+    + [K_N] > "ʜ"
+    + [K_M] > "ɛ"
+    
+    any(basecons) any(vowels) + [K_T] > context(1) '̄' context(2)
+    any(basecons) + [K_T] > context(1) '̄'
