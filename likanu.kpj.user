@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\likanu.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_045760f45bd7d481d25eb22a3f6f683e</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\likanu.kpj</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_895d76002c8f2ad62c18f34725583e77</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\likanu.kpj.user</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_68d8f7932b6aa8714f095160950a025f</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\source\likanu.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_fc5c0497b862053d74b63b8594b71939</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\source\likanu.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_71b791141d17857dec73d271e67f6742</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\source\likanu.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>1</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <DisplayMapFont>Consolas|-9|   |0</DisplayMapFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_4712b864579998d0b9a8395e92ad35e0</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\source\likanu.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_424a9862ddd4e6ce59097bd47fae2e04</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\source\likanu.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_021b8001e55a5b8148dd40ed43f13ce1</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\source\..\build\likanu.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_88b8863d81de47ec16b0eb08c9dc6a28</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\source\..\build\likanu.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c08c283528aedf731f4fe28488f0b2b5</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\source\..\build\likanu.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\source\..\LICENSE.md</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>likanu.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\joshu\Documents\Keyman Developer\Projects\likanu\source\likanu.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
